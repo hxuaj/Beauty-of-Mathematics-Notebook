@@ -1,9 +1,8 @@
 # Beauty-of-Mathematics-Notebook
-这是对《数学之美》一书的读书笔记。
 
-作者：吴军
+这是对《数学之美》一书的读书笔记。   作者：Haomin Xu
 
-版本号：2014年11月第二版
+《数学之美》 吴军 著    2014年11月第二版
 
 Chapter1 to Chapter10.
 
