@@ -7,3 +7,5 @@
 Written with Typora.
 
 Github预览md会有一些显示错误，请使用Typora等md工具打开。
+
+Please feel free to pull requests. Thank you.
