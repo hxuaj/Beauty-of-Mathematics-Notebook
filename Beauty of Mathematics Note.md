@@ -831,7 +831,7 @@ $$
 
 2. 最大熵模型的训练
 
-   * 最原始的最大熵模型训练方法：通用迭代算法GIS（Generalized Iterative Scalling）：
+   * 最原始的最大熵模型训练方法：通用迭代算法GIS（Generalized Iterative Scaling）：
      1. 假定第零次迭代的初始模型为等概率的均匀分布。
      2. 用第N次迭代的模型来估算每种信息特征在训练数据中的分布。
      3. 重复2，直到收敛。
